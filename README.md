@@ -18,7 +18,9 @@
 
 I'm a **Digital Transformation Consultant** and **Technology Architect** with a Ph.D. in Geo-Distributed Applications & Systems from IMT Atlantique. I specialize in orchestrating digital excellence through strategic innovation and cutting-edge technology solutions for global enterprises.
 
-With over 5 years of experience, I've successfully delivered 30+ enterprise projects, generating $100k+ in value with a 98% client satisfaction rate. My expertise spans across multiple continents, helping businesses transform through technology.
+With over 5 years of experience, I've successfully delivered 30+ enterprise projects. My expertise spans across multiple continents, helping businesses transform through technology.
+
+I am also the Co-Founder and CTO if <a href="https://optimitz.com">Optimitz</a>, a startup that focus of health and wellness development of a person.
 
 ### 🎯 My Mission
 > *"Transforming complex technological challenges into elegant solutions that drive business growth and innovation."*
