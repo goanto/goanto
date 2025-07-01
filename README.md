@@ -106,7 +106,7 @@ With over 5 years of experience, I've successfully delivered 30+ enterprise proj
 </div>
 
 ---
-
+<!-- 
 ## 📊 My Impact
 
 <div align="center">
