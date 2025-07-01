@@ -112,7 +112,7 @@ With over 5 years of experience, I've successfully delivered 30+ enterprise proj
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=goanto&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=2563EB&icon_color=2563EB" alt="GitHub Stats" />
 </div>
-
+<!-- 
 <div align="center">
   <table>
     <tr>
@@ -135,7 +135,7 @@ With over 5 years of experience, I've successfully delivered 30+ enterprise proj
     </tr>
   </table>
 </div>
-
+-->
 ---
 
 ## 📚 Latest Blog Posts
@@ -214,17 +214,5 @@ I'm always excited to collaborate on innovative projects and help businesses tra
   
   <i>⚡ "Transforming vision into reality through precision and innovation" ⚡</i>
 </div>
-<!--
-**goanto/goanto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
