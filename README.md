@@ -226,11 +226,7 @@ I'm **available for freelance Developing/ Consulting** on:
 
 ---
 
-## 📊 GitHub Statistics
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=goanto&layout=compact&theme=default&hide_border=true)
-
----
 
 ## 💡 Technical Philosophy
 
