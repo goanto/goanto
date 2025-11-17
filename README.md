@@ -1,6 +1,6 @@
 # Dr. Geo Johns Antony
 
-**Freelance Software Architect, DevOps, Cloud & AI Infrastructure Specialist | PhD in Distributed Systems **
+** Freelance Software Architect, DevOps, Cloud & AI Infrastructure Specialist | PhD in Distributed Systems **
 
 [![Location](https://img.shields.io/badge/Location-France%20%7C%20Remote%20Worldwide-blue)](https://github.com/goanto)
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0002--9129--8281-green)](https://orcid.org/0000-0002-9129-8281)
