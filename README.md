@@ -10,11 +10,11 @@
 
 ## 👋 About Me
 
-I'm a Software Architect and Platform Engineer with **8+ years of experience** building production-grade AI/LLM infrastructure, cloud-native platforms, and distributed systems. I hold a **PhD in Distributed Systems** from Inria Labs (France) and have served as **Co-Founder & CTO** at Optimitz, where I architected multi-provider LLM routing platforms and cross-platform mobile applications.
+I'm a Software Architect and Platform Engineer with **8+ years of experience** building production-grade AI/LLM infrastructure, cloud-native platforms, and distributed systems. I hold a **PhD in Distributed Systems** from Inria Labs (France).
 
-My expertise lies at the intersection of **AI infrastructure, cloud platforms, and distributed systems**. I've built and scaled platforms serving **200,000+ daily users**, led engineering teams, and published research in top-tier conferences. I'm passionate about solving complex technical challenges and delivering high-impact solutions.
+My expertise lies at the intersection of **AI infrastructure, cloud platforms, and distributed systems**. I've built and scaled platforms serving **200,000+ daily users** , where I architected multi-provider LLM routing platforms and cross-platform mobile applications, led engineering teams, and published research in top-tier conferences. I'm passionate about solving complex technical challenges and delivering high-impact solutions.
 
-**Currently available for freelance consulting and architecture projects.**
+**Currently available for freelance consulting, development and architecture projects.**
 
 ---
 
