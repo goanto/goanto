@@ -4,7 +4,7 @@
 
 [![Location](https://img.shields.io/badge/Location-France%20%7C%20Remote%20Worldwide-blue)](https://github.com/goanto)
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0002--9129--8281-green)](https://orcid.org/0000-0002-9129-8281)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5)](https://linkedin.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5)](https://www.linkedin.com/in/goanto/)
 
 ---
 
@@ -240,5 +240,4 @@ I'm **available for freelance Developing/ Consulting** on:
 
 ---
 
-*Last updated: November 2025*
 
