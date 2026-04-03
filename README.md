@@ -1,4 +1,4 @@
-# Dr. Geo Johns Antony
+# Geo
 
 **Freelance Software Architect, DevOps, Cloud & AI Infrastructure Specialist | PhD in Distributed Systems**
 
