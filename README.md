@@ -1,6 +1,6 @@
 # Geo
 
-**Freelance Software Architect, DevOps, Cloud & AI Infrastructure Specialist | PhD in Distributed Systems**
+** Platform Engineer, Software Architect, DevOps, Cloud & AI Infrastructure Specialist | PhD in Distributed Systems**
 
 [![Location](https://img.shields.io/badge/Location-France%20%7C%20Remote%20Worldwide-blue)](https://github.com/goanto)
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0002--9129--8281-green)](https://orcid.org/0000-0002-9129-8281)
@@ -14,7 +14,6 @@ I'm a Software Architect and Platform Engineer with **8+ years of experience** b
 
 My expertise lies at the intersection of **AI infrastructure, cloud platforms, and distributed systems**. I've built and scaled platforms serving **200,000+ daily users** , where I architected multi-provider LLM routing platforms and cross-platform mobile applications, led engineering teams, and published research in top-tier conferences. I'm passionate about solving complex technical challenges and delivering high-impact solutions.
 
-**Currently available for freelance consulting, development and architecture projects.**
 
 ---
 
@@ -58,7 +57,7 @@ My expertise lies at the intersection of **AI infrastructure, cloud platforms, a
 
 ## 💼 Key Project Experience
 
-### **Multi-Provider LLM Routing Platform** | Co-Founder & CTO at Optimitz
+### **Multi-Provider LLM Routing Platform** | Optimitz
 **Technologies:** AWS EKS, Python (FastAPI), Node.js, OpenAI, Claude, Grok, React Native
 
 - Architected production-grade LLM infrastructure with intelligent request routing across multiple providers (OpenAI GPT-4, Grok-4, Claude)
@@ -68,7 +67,7 @@ My expertise lies at the intersection of **AI infrastructure, cloud platforms, a
 - Designed scalable backend microservices handling 10k+ daily API requests
 - **Impact:** Enabled seamless AI integration for enterprise clients with 99.9% uptime
 
-### **Multi-Tenant Video Analytics Platform** | Founding Software Engineer (MLOps) at Aivid.ai
+### **Multi-Tenant Video Analytics Platform** | Aivid.ai
 **Technologies:** AWS EKS, PostgreSQL, MongoDB, Redis, Python, Kubernetes
 
 - Built and scaled video analytics platform serving **200,000+ daily users** across multiple tenants
@@ -78,7 +77,7 @@ My expertise lies at the intersection of **AI infrastructure, cloud platforms, a
 - Led 5-person engineering team through rapid growth phase
 - **Impact:** Delivered production platform processing 1M+ video analytics requests daily
 
-### **MLOps Platform for Data Scientists** | Software Engineer (MLOps) at Reliance Industries
+### **MLOps Platform for Data Scientists** |  Reliance Industries
 **Technologies:** GKE, Terraform, Node.js, React, ELK Stack, Jenkins
 
 - Designed and deployed MLOps platform serving **60+ data scientists** across multiple teams
@@ -88,7 +87,7 @@ My expertise lies at the intersection of **AI infrastructure, cloud platforms, a
 - Set up monitoring with ELK Stack providing real-time observability
 - **Impact:** Reduced model deployment time from 2 days to 2 hours; received Employee of the Year Award
 
-### **Distributed Agent Framework for Geo-Distributed Systems** | PhD Research at Inria Labs
+### **Distributed Agent Framework for Geo-Distributed Systems** | Inria Labs
 **Technologies:** Python, Go, Kubernetes, Terraform, Ansible, gRPC
 
 - Developed novel distributed agent framework for managing workloads across geo-distributed edge and cloud environments
