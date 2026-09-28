@@ -1,6 +1,6 @@
 # Geo
 
-** Platform Engineer, Software Architect, DevOps, Cloud & AI Infrastructure Specialist | PhD in Distributed Systems**
+** Platform Engineer, MLOps, DevOps, Cloud & AI Infrastructure | PhD in Geo-Distributed Systems**
 
 [![Location](https://img.shields.io/badge/Location-France%20%7C%20Remote%20Worldwide-blue)](https://github.com/goanto)
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0002--9129--8281-green)](https://orcid.org/0000-0002-9129-8281)
@@ -10,9 +10,9 @@
 
 ## 👋 About Me
 
-I'm a Software Architect and Platform Engineer with **8+ years of experience** building production-grade AI/LLM infrastructure, cloud-native platforms, and distributed systems. I hold a **PhD in Distributed Systems** from Inria Labs (France).
+I'm a Platform Engineer with **8+ years of experience** building production-grade AI/LLM infrastructure, cloud-native platforms, and distributed systems. I hold a **PhD in Distributed Systems** from Inria Labs (France).
 
-My expertise lies at the intersection of **AI infrastructure, cloud platforms, and distributed systems**. I've built and scaled platforms serving **200,000+ daily users** , where I architected multi-provider LLM routing platforms and cross-platform mobile applications, led engineering teams, and published research in top-tier conferences. I'm passionate about solving complex technical challenges and delivering high-impact solutions.
+My expertise lies at the intersection of **AI infrastructure, cloud platforms, and distributed systems**. I've built and scaled platforms serving large user base , where I architected multi-provider LLM routing platforms and cross-platform mobile applications, led engineering teams, and published research in top-tier conferences. I'm passionate about solving complex technical challenges and delivering high-impact solutions.
 
 
 ---
@@ -70,7 +70,7 @@ My expertise lies at the intersection of **AI infrastructure, cloud platforms, a
 ### **Multi-Tenant Video Analytics Platform** | Aivid.ai
 **Technologies:** AWS EKS, PostgreSQL, MongoDB, Redis, Python, Kubernetes
 
-- Built and scaled video analytics platform serving **200,000+ daily users** across multiple tenants
+- Built and scaled video analytics platform serving large user bases across multiple tenants
 - Optimized database layer (PostgreSQL, MongoDB, Redis) achieving **40% cost reduction** and sub-100ms query response times
 - Implemented Kubernetes auto-scaling policies handling variable workloads (10x traffic spikes)
 - Designed multi-tenant isolation strategy ensuring data security and compliance
@@ -98,7 +98,7 @@ My expertise lies at the intersection of **AI infrastructure, cloud platforms, a
 - Published **5 peer-reviewed research papers** in IEEE, Springer, and ACM conferences
 - **Impact:** Novel approach to distributed coordination reducing cross-region latency by 40%
 
-### **Current Freelance Projects**
+### **AI based voice Agent platform** | Freelance
 **Technologies:** AWS (EKS, Bedrock, Lambda, RDS, S3), Azure (AKS), Python, VAPI, Amazon Transcribe
 
 - Architecting cloud-native applications on AWS EKS with auto-scaling and high availability
@@ -198,30 +198,20 @@ My expertise lies at the intersection of **AI infrastructure, cloud platforms, a
 ## 🏆 Key Achievements
 
 - 🥇 **Employee of the Year Award** - Reliance Industries (2020)
-- 📄 **5 Peer-Reviewed Publications** - IEEE, Springer, ACM conferences and journals
+- 📄 **Peer-Reviewed Publications** - IEEE, Springer, ACM conferences and journals
 - 👥 **Led Engineering Teams** - Managed and mentored 5+ engineers across multiple projects
-- 🚀 **Built 200k+ User Platforms** - Delivered production systems serving hundreds of thousands of daily users
+- 🚀 **Built 1M+ User Platforms** - Delivered production systems serving hundreds of thousands of daily users
 - 🎯 **40% Cost Reduction** - Optimized database infrastructure reducing operational costs significantly
 - ⚡ **Novel Research Contributions** - Developed distributed consensus algorithm and dependency graph algorithms
 
 ---
 
 
-## 📫 Let's Work Together
-
-I'm **available for freelance Developing/ Consulting** on:
-- AI/LLM infrastructure architecture and implementation
-- Cloud platform design and migration (AWS, GCP, Azure)
-- Platform engineering and DevOps transformation
-- MLOps pipeline design and optimization
-- Distributed systems architecture
-- Technical advisory and CTO-as-a-Service
 
 ### **Contact Me:**
 - 📧 Email: [geo8.antony@gmail.com]
 - 💼 LinkedIn: [https://www.linkedin.com/in/goanto/]
 - 🌍 Location: France (Remote worldwide)
-- 📅 Availability: Open for projects starting immediately
 
 ---
 
